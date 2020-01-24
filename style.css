@@ -3,7 +3,7 @@ div {
     height: 400px;
     margin: 0 auto;
     background-image: url("photo.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
